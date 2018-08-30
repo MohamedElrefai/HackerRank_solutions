@@ -1,2 +1,3 @@
 # HackerRank_solutions
-My HackerRank solutions python and SQL
+My HackerRank solutions in python and SQL.
+
